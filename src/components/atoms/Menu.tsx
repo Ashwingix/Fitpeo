@@ -1,5 +1,5 @@
 import React from "react";
-import { GoalIcon, PopularDishesIcon, MenusIcon } from "../ui/icons";
+import { GoalIcon, PopularDishesIcon, MenusIcon } from "../ui/Icons";
 
 interface MenuItemProps {
   icon: React.ReactNode;
